@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ardalanadl
-- 🌱 I’m currently learning Javascript
 
 
 <!---
